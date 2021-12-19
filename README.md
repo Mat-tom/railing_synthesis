@@ -4,6 +4,8 @@
 
 **short history and abstract**
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Csound experimental patch.
 
 Representation with methods of analysis and resynthesis of railings, bells, springs sounds.
